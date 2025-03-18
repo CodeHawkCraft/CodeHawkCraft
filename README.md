@@ -3,7 +3,6 @@
 
 
 
-<p align="left"> <a href="https://github.com/CodeHawkCraft"><img src="[https://github-profile-trophy.vercel.app/?username=codehawkcraft](https://avatars.githubusercontent.com/u/183183594?v=4)" alt="codehawkcraft" /></a> </p>
 
 - 🔭 I’m currently working on [DrawHub](https://drawhub-seven.vercel.app)
 
