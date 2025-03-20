@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **NextJS, Monorepo, Postgres**
 
-- 👨‍💻 All of my projects are available at [https://davinderkumar.me](https://davinderkumar.me)
+ <!-- 👨‍💻 All of my projects are available at [https://davinderkumar.me](https://davinderkumar.me) -->
 
 - 💬 Ask me about **react, nodejs, mongodb**
 
